@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.idea/misc.xml
+.idea/YT_S2L.iml
+.idea/modules.xml
+.idea/workspace.xml
