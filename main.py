@@ -1,5 +1,7 @@
 import urllib
 import argparse
+import time
+from pathlib import Path
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
@@ -12,6 +14,13 @@ args = parser.parse_args()
 lines = [line.rstrip('\n') for line in open(args.source)]
 
 print(lines)
+my_file = Path("YT_S2L.txt")
+if my_file.is_file():
+    f = open('YT_S2L.txt', 'a')
+    f.write('\n'+ time.strftime("%c" + '\n'))
+    f.write('\n')
+    f.close()
+
 if args.output:
     for text in lines:
         textToSearch = text
