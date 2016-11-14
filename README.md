@@ -12,5 +12,5 @@
 - https://www.youtube.com/watch?v=KK9bwTlAvgo
 
 >Arguments
-- -s --source source_File.txt (catching lines)
-- -o --output (YT-S2L.txt append)
+- **-s --source source_File.txt** (catching lines)
+- **-o --output** (YT-S2L.txt append)
