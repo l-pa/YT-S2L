@@ -3,7 +3,7 @@
 - python
 - youtube
 
-** main.py -s text.txt -o **
+**main.py -s text.txt -o**
 
 >YT-S2L.txt
 - https://www.youtube.com/watch?v=N4mEzFDjqtA
