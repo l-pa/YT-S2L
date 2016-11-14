@@ -1,5 +1,4 @@
 # YT- Source 2 List
-## First link from YouTube => search phrase from text.txt
 
 >text.txt
 - python
