@@ -1,4 +1,6 @@
-# YT-S2L
+# YT- Source 2 List
+## First link from YouTube, after search phrase from text.txt
+
 >text.txt
 - python
 - youtube
@@ -9,3 +11,6 @@
 - https://www.youtube.com/watch?v=N4mEzFDjqtA
 - https://www.youtube.com/watch?v=KK9bwTlAvgo
 
+>Arguments
+- -s --source source_File.txt (catching lines)
+- -o --output (YT-S2L.txt append)
