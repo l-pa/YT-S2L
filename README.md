@@ -1,14 +1,7 @@
 # YT- Source 2 List
-
->text.txt
-- python
-- youtube
+Get from *Maroon 5* in txt file first URL on Youtube https://www.youtube.com/watch?v=aJOTlE1K90k
 
 **main.py -s text.txt -o**
-
->YT-S2L.txt
-- https://www.youtube.com/watch?v=N4mEzFDjqtA
-- https://www.youtube.com/watch?v=KK9bwTlAvgo
 
 >Arguments
 - **-s --source source_File.txt** (catching lines)
